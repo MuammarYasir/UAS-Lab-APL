@@ -1,4 +1,8 @@
 # Deskripsi
+
+Muammar Yasir
+1908107010079
+
 Kasus Yang di ambil dalam menggunakan kedua pattern ini yaitu Kasus Music, Kasus ini diambil dikarenakan huruf awalan nama saya Muammar Yasir yaitu M, yang dimana dalam kasus ini Seseorang dapat memilih ingin memutar music menggunakan player atau media layaknya Mp4 atau VLC yang sudah tersedia di dalam pattern
 
 Design Pattern :
